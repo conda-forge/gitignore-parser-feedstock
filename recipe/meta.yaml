@@ -1,5 +1,5 @@
 {% set name = "gitignore-parser" %}
-{% set version = "0.0.8" %}
+{% set version = "0.0.9" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/gitignore_parser-{{ version }}.tar.gz
-  sha256: b4e6e63d971810cbd2168bc02deddba719c07da655eaf56336d4bb0233ecef85
+  sha256: ad22d69baafc9eaeff4a3a7c87da089aa416df50c72c3bc14a7aa0a1a9bc6472
 
 build:
   number: 0
