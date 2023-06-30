@@ -1,11 +1,11 @@
-About gitignore-parser
-======================
+About gitignore-parser-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/gitignore-parser-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/mherrmann/gitignore_parser
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/gitignore-parser-feedstock/blob/main/LICENSE.txt)
 
 Summary: A spec-compliant gitignore parser for Python 3.5+
 
